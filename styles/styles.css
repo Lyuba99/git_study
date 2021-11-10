@@ -1,3 +1,33 @@
 html, body 
     width: 100%;
     height: 100%;
+
+.block_1{
+position: absolute;
+width: 1440px;
+height: 96px;
+left: 0px;
+top: 19px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 48px;
+line-height: 56px;
+text-align: center;
+color: #000000;
+}
+.header{
+position: absolute;
+width: 100%;
+height: 96px;
+left: 0px;
+top: 0px;
+background: #C4C4EB;
+}
+.block_2{
+position: absolute;
+width: 250px;
+height: 250px;
+left: 67px;
+top: 267px;
+}
