@@ -82,7 +82,7 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
 }
 
 .subsection_img{
-	background: #F06F6F;
+	background: #F06F6F; 
 }
 
 .subsection_title_1{
@@ -140,4 +140,8 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
 	height: 178px;
 	background: #C4C4C4;
 	border-radius: 100px;
+}
+
+.subsetion_img_1:hover{
+	background: #61607D;
 }
